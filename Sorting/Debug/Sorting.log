@@ -1,0 +1,4 @@
+﻿  Merge_Sort.c
+d:\_c,c++_project\sorting\sorting\merge_sort.c(72): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Sorting.vcxproj -> D:\_C,C++_Project\Sorting\Debug\Sorting.exe
+  Sorting.vcxproj -> D:\_C,C++_Project\Sorting\Debug\Sorting.pdb (Partial PDB)
